@@ -1,7 +1,7 @@
 # This is a big header
 
 ```javascript
-console.log('This is a code block');
+console.log('Sally is the best');
 ```
 
 1. This is a list
