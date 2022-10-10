@@ -1,7 +1,6 @@
 # This is a big header
 
 ```javascript
-
 console.log('James!! is the best');
 console.log('SALLY is the best');
 ```
